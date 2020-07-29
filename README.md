@@ -1,7 +1,6 @@
 # Launch ML/AI [VWMare]
 This is the course page for a 3-day intensive workshop for the ML/AI pillar of the VMWare Launch program and culminates in a hackathon.
 
-
 # Objectives
 After this course, students will be able to:
 
@@ -19,9 +18,11 @@ The workshop is broken down into three days of training
 
 ## Day 1: Basic Model Building
 1. Overview of Machine Learning (ML)
-2. Practical Python for machine learning
+2. Practical Python for ML
 3. Practical Pandas for data wrangling
-4. Buidling machine learning models
+4. Building machine learning models
+
+You can find the [page for Day 1 here](). 
 
 ## Day 2: Tuning, Neural Nets, RL & Hackathon
 1. Lab 1: Neural Networks and Reinforcement Learning (RL)
@@ -29,8 +30,12 @@ The workshop is broken down into three days of training
 3. Hackathon Overview
 4. Hackathon Begins!
 
+You can find the [page for Day 2 here](). 
+
 ## Day 3: Hackathon & Presentations
 1. Hack Time for Hackathon
 2. Presentations and Discussion
 3. Review Key Takeaways
 4. Open Q & A
+
+You can find the [page for Day 3 here](). 
