@@ -10,7 +10,6 @@ After this course, students will be able to:
 - Build supervised learning (predictive) models in scikit-learn
 - Use basic techniques to "tune" the models for better performance
 - Explain what reinforcement learning and neural networks are
-- Use neural network libraries to a basic level
 - Execute the machine learning workflow start-to-finish
 
 # Agenda
