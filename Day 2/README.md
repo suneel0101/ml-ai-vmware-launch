@@ -15,14 +15,11 @@ By the end of today, students will be able to:
 3. Learning about reinforcement learning
 4. Begin Hackathon
 
-# 1. Applying different models
-- Slides are in this directory.
-
-# 2. Learning about neural networks
+# 1. Applying different models, NN, and RL
 - Notebook is in this directory.
 
-# 3. Learning about reinforcement learning
+# 2. Practice data munging
 - Notebook is in this directory.
 
-# 4. Begin Hackathon
+# 3. Begin Hackathon
 - Notebook is in this directory.
