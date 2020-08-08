@@ -25,4 +25,4 @@ By the end of today, students will be able to:
 - Notebook is in this directory.
 
 # 4. Building machine learning models
-
+- Notebook is in this directory.
