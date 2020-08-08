@@ -19,9 +19,10 @@ By the end of today, students will be able to:
 - Slides are in this directory.
 
 # 2. Practical Python for ML
-- NOtebook is in this directory.
+- Notebook is in this directory.
 
 # 3. Practical Pandas for data wrangling
+- Notebook is in this directory.
 
 # 4. Building machine learning models
 
