@@ -25,7 +25,7 @@ The workshop is broken down into three days of training
 ## Day 2: Tuning, Neural Nets, RL & Hackathon
 1. Applying models and Neural Networks and Reinforcement Learning (RL) ([notebook](https://github.com/suneel0101/ml-ai-vmware-launch/blob/master/Day%202/ML%20Practice%2C%20Neural%20Nets%2C%20and%20RL.ipynb))
 2. Data Munging & Feature Engineering Practice ([notebook](https://github.com/suneel0101/ml-ai-vmware-launch/blob/master/Day%202/Data%20Munging%20Practice.ipynb))
-3. Hackathon ([source](https://www.kaggle.com/c/20-newsgroups))
+3. Start Hackathon ([source](https://www.kaggle.com/c/20-newsgroups))
 
 
 ## Day 3: Hackathon & Presentations
