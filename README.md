@@ -26,9 +26,8 @@ The workshop is broken down into three days of training
 2. [1 hr] Data Munging & Feature Engineering Practice ([notebook](https://github.com/suneel0101/ml-ai-vmware-launch/blob/master/Day%202/Data%20Munging%20Practice.ipynb))
 3. Start Hackathon ([source](https://www.kaggle.com/c/20-newsgroups))
 
-
 ## Day 3: Hackathon & Presentations
-1. Hack Time for Hackathon
-2. Presentations and Discussion
-3. Review Key Takeaways
-4. Open Q & A
+1. [3-4 hrs] Hack Time for Hackathon
+2. [1 hr] Presentations and Discussion
+3. [0.5 hrs] Review Key Takeaways
+4. [0.5 hrs] Open Q & A
