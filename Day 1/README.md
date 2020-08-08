@@ -16,10 +16,10 @@ By the end of today, students will be able to:
 4. Building machine learning models
 
 # 1. Overview of Machine Learning (ML)
-- Slides
+- Slides are in this directory.
 
 # 2. Practical Python for ML
-- Here is the notebook.	
+- NOtebook is in this directory.
 
 # 3. Practical Pandas for data wrangling
 

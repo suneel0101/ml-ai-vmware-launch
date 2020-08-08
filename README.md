@@ -22,7 +22,7 @@ The workshop is broken down into three days of training
 3. Practical Pandas for data wrangling
 4. Building machine learning models
 
-You can find the [page for Day 1 here](). 
+You can find the [page for Day 1 here](https://github.com/suneel0101/ml-ai-vmware-launch/blob/master/Day%201/README.md). 
 
 ## Day 2: Tuning, Neural Nets, RL & Hackathon
 1. Lab 1: Neural Networks and Reinforcement Learning (RL)
