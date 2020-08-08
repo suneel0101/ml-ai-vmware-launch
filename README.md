@@ -1,4 +1,4 @@
-# Launch ML/AI [VWMare]
+# VMWare Launch ML/AI
 This is the course page for a 3-day intensive workshop for the ML/AI pillar of the VMWare Launch program and culminates in a hackathon.
 
 # Objectives
