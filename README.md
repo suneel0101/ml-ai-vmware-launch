@@ -33,5 +33,3 @@ The workshop is broken down into three days of training
 2. Presentations and Discussion
 3. Review Key Takeaways
 4. Open Q & A
-
-You can find the [page for Day 3 here](). 
