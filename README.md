@@ -31,3 +31,17 @@ The workshop is broken down into three days of training
 2. [1 hr] Presentations and Discussion
 3. [0.5 hrs] Review Key Takeaways
 4. [0.5 hrs] Open Q & A
+
+
+## Post-Class Work
+### Articles
+1. The Bias-Variance Tradeoff: Model errors are important to understand and fall into either bias or variance and often there is a tradeoff between the two: http://scott.fortmann-roe.com/docs/BiasVariance.html
+
+2. A Practical Guide to Feature Engineering: One can make their models more performant by adding more data, enriching the features, or choosing better models. The bulk of the work is in the feature engineering https://heartbeat.fritz.ai/a-practical-guide-to-feature-engineering-in-python-8326e40747c8
+
+3. The Curse of Dimensionality: An important consideration in adding more features to your dataset is understanding how that affects the density of your data and for certain models results in "lonely data" https://towardsdatascience.com/the-curse-of-dimensionality-minus-the-curse-of-jargon-520da109fc87
+
+### Pluralsight Course
+https://app.pluralsight.com/library/courses/google-machine-learning-apis-designing-implementing-solutions/table-of-contents
+
+It is useful to leverage as much existing intelligence as possible, whether it is AWS, Google ML, or Azure. Google ML tooling in particular is very user friendly and well-developed.
