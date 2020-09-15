@@ -45,3 +45,6 @@ The workshop is broken down into three days of training
 https://app.pluralsight.com/library/courses/google-machine-learning-apis-designing-implementing-solutions/table-of-contents
 
 It is useful to leverage as much existing intelligence as possible, whether it is AWS, Google ML, or Azure. Google ML tooling in particular is very user friendly and well-developed.
+
+### Exercise
+See the iPython notebooks under Post-Class Work. One contains the exercises without solutions and the other contains the solutions.
