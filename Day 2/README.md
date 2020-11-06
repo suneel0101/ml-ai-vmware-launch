@@ -22,4 +22,3 @@ By the end of today, students will be able to:
 - Notebook is in this directory.
 
 # 3. Begin Hackathon
-- Notebook is in this directory.
